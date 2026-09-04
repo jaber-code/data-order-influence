@@ -1,0 +1,10 @@
+0	airplane, airplane1
+1	automobile, automobile2, automobile3
+2	bird, birds, duck
+3	cat, lion
+4	deer
+5	dog, dog2, dog3
+6	frog, ninja
+7	horse, camel
+8	ship
+9	truck

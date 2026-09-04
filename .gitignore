@@ -1,0 +1,44 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# ---- Virtual env ----
+.venv/
+venv/
+env/
+
+# ---- Editor / OS ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ---- Datasets (downloaded, not versioned) ----
+data/
+**/data/
+*.tar.gz
+*.meta
+data_batch_*
+test_batch
+
+# ---- Training / experiment output ----
+logs/
+**/logs/
+training_data_log/
+training_data_*.csv
+inc_training_data.csv
+testing_data.csv
+*.out
+*.err
+
+# ---- Plots: keep the script, drop the rendered runs ----
+plotting/*
+!plotting/
+!plotting/plotting.py
+
+# ---- Misc scratch ----
+classes_order_generator/gg
+extended_names.txt

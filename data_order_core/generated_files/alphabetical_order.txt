@@ -1,0 +1,10 @@
+airplane, airplane1
+automobile, automobile2, automobile3
+bird
+cat
+deer
+dog, dog2, dog3
+frog
+horse
+ship
+truck
