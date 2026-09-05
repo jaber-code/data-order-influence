@@ -1,6 +1,6 @@
 # Data Order Influence
 
-Research code studying **how the order in which classes are introduced affects incremental (class‑incremental) training** of image classifiers. A model is trained on a growing subset of classes, one increment at a time, and we compare final/again‑seen accuracy across different class orderings and different epoch‑budget schedules.
+Research project studying how the training data order affects incremental training of image classifiers. A model is trained on a growing subset of classes, one increment at a time, and we compare final/again‑seen accuracy across different class orderings and different epoch‑budget schedules.
 
 ## Idea
 
